@@ -1,0 +1,4 @@
+train_loss_enc,train_loss_disc,train_dice_loss,train_ssim_loss,train_bce_loss,dice_loss
+1.8135,0.4616,0.9098,0.61,0.1761,0.7494
+3.3021,0.271,0.6929,0.0388,0.0759,0.6531
+4.4861,0.1927,0.6104,0.0283,0.071,0.61
