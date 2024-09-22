@@ -9,7 +9,7 @@ Domain Adversarial Training
 
 ## Dann Seg Loss Curve for 512 dimensional critic
 
-![Loss Curves](./logs/dann-512/plots/seg_loss.png, ./logs/dann-512/plots/dann_loss.png)
+![Dann Loss Curves](./logs/dann-512/plots/seg_loss.png) ![Seg Loss Curves](./logs/dann-512/plots/dann_loss.png)
 
 
 ### References 
