@@ -1,4 +1,6 @@
 *.sh 
 *.pth 
+del*
+d.py
 __*
 
