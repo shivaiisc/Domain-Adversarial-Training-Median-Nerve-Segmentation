@@ -14,3 +14,8 @@ Domain Adversarial Training
 ## DANN Loss Curve for 512 dimensional critic
 
 ![DANN Loss Curve for 512 dimensional critic](./logs/dann-512/plots/dann_loss.png)
+
+
+### References 
+
+https://arxiv.org/abs/1505.07818
